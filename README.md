@@ -31,4 +31,20 @@ The project focuses on **clean design, smooth UI, and modern frontend practices*
 
 
 ---
+## 📸 Preview
+
+![Modern Chair UI](./screenshots/UI.png)
+
+---
+
+## 📂 Project Structure
+
+```bash
+Modern_Chair/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+├── screenshots/
+└── README.md
 
